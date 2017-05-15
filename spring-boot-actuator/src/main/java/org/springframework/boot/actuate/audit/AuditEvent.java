@@ -13,6 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+ /*
+ Unless required by applicable law or agreed in writing, software
+ */
 
 package org.springframework.boot.actuate.audit;
 
